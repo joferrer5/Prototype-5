@@ -621,6 +621,7 @@ MonoBehaviour:
   - {fileID: 8659235228623880007, guid: 2ef9f3e883de04685ae94dc1153ff527, type: 3}
   - {fileID: 1551140769207744353, guid: b1666a32a8b354df384a7ea41bcba688, type: 3}
   targets2: []
+  scoreText: {fileID: 1664395706}
 --- !u!4 &1216786165
 Transform:
   m_ObjectHideFlags: 0
